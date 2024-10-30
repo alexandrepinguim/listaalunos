@@ -1,0 +1,87 @@
+h1{
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+a {
+    text-decoration: none;
+    color: rgb(255, 0, 221);
+}
+a:hover {
+    text-decoration: underline;
+}
+.add-btn {
+    margin-bottom: 15px;
+    display: inline-block;
+    padding: 10px;
+    background-color: #c71818;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+.add-btn:hover {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #e71616;
+}
+form {
+    width: 300px;
+    margin: 0 auto;
+}
+label, input {
+    display: block;
+    margin: 10px 0;
+}
+input[type="submit"] {
+    padding: 10px;
+    background-color: #be0e0e;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input[type="submit"]:hover {
+    background-color: #ce0e0e;
+}
+.back-link {
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+}
+form {
+    width: 300px;
+    margin: 0 auto;
+}
+label, input {
+    display: block;
+    margin: 10px 0;
+}
+input[type="submit"] {
+    padding: 10px;
+    background-color: #c01212;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input[type="submit"]:hover {
+    background-color: #b91212;
+}
+.back-link {
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+}
+
+.container{
+    margin-top: 30px;
+}
